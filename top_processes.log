@@ -1,0 +1,12 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         222  0.0  0.2 107012 22616 ?        Ssl  05:26   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          52  0.0  0.2  50448 16544 ?        S<s  05:26   0:00 /usr/lib/systemd/systemd-journald
+root         184  0.0  0.2 1756096 16064 ?       Ssl  05:26   0:00 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.1  21960 13172 ?        Ss   05:26   0:01 /usr/lib/systemd/systemd --system --deserialize=91
+systemd+     146  0.0  0.1  21452 11892 ?        Ss   05:26   0:00 /usr/lib/systemd/systemd-resolved
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  21960 13172 ?        Ss   05:26   0:01 /usr/lib/systemd/systemd --system --deserialize=91
+root          52  0.0  0.2  50448 16544 ?        S<s  05:26   0:00 /usr/lib/systemd/systemd-journald
+vishal       314  0.0  0.0   6204  5528 pts/0    Ss   05:26   0:00 -bash
+message+     168  0.0  0.0   9664  5180 ?        Ss   05:26   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         313  0.0  0.0   2776   208 ?        S    05:26   0:00 /init

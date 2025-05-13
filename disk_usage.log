@@ -1,0 +1,18 @@
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         300G  247G   53G  83% /usr/lib/wsl/drivers
+/dev/sdc       1007G  1.5G  955G   1% /
+none            3.9G  104K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.4M  3.8G   1% /init
+none            3.9G  516K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             300G  247G   53G  83% /mnt/c
+D:\             654G  190G  465G  29% /mnt/d
+tmpfs           779M   16K  779M   1% /run/user/1000
+52K	/home/vishal
